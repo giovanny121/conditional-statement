@@ -1,0 +1,25 @@
+
+public class control {
+
+ public static void main(String[] args) {
+   int a = 10;
+   
+   switch(1) {
+   
+ case 1: {
+     System.out.printIn("case 1");
+     }
+     case 2:{
+        System.out.printIn("case 2");
+        }
+          case 3:{
+        System.out.printIn("case 3");
+          }
+          case 4:{
+        System.out.printIn("case 4");
+        }
+        default: {
+           System.out.printIn("default");
+           }
+           }
+           }
